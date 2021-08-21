@@ -1,4 +1,4 @@
-# Pangolin Token Assets
+# YetiSwap Token Assets
 
 This repository is a comprehensive collection of token assets for pooled tokens on Pangolin.
 
